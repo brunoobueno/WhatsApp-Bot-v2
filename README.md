@@ -1,34 +1,3 @@
-<p align="center">
-<img src="https://avatars0.githubusercontent.com/u/4674786?s=400&u=2f77d382a4428c141558772a2b7ad3a36bebf5bc&v=4" width="128" height="128"/>
-</p>
-<p align="center">
-<a href="#"><img title="LBot-WhatsApp" src="https://img.shields.io/badge/LBot%20WhatsApp-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://github.com/victorsouzaleal"><img title="Autor" src="https://img.shields.io/badge/Autor-victorsouzaleal-blue.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://www.codefactor.io/repository/github/victorsouzaleal/lbot-whatsapp"><img src="https://www.codefactor.io/repository/github/victorsouzaleal/lbot-whatsapp/badge" alt="CodeFactor" /></a>
-</p>
-<p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvictorsouzaleal%2Flbot-whatsapp&count_bg=%231D8ED9&title_bg=%23454545&icon=github.svg&icon_color=%23E7E7E7&title=visualizacoes&edge_flat=true"/></a>
-<a href="#"><img title="Versão" src="https://img.shields.io/github/package-json/v/victorsouzaleal/lbot-whatsapp?label=vers%C3%A3o&style=flat-square"></a>
-<a href="#"><img title="Tamanho" src="https://img.shields.io/github/repo-size/victorsouzaleal/lbot-whatsapp?label=tamanho&style=flat-square"></a>
-<a href="https://github.com/victorsouzaleal/followers"><img title="Seguidores" src="https://img.shields.io/github/followers/victorsouzaleal?label=seguidores&style=flat-square"></a>
-<a href="https://github.com/victorsouzaleal/lbot-whatsapp/stargazers/"><img title="Estrelas" src="https://img.shields.io/github/stars/victorsouzaleal/lbot-whatsapp?label=estrelas&style=flat-square"></a>
-<a href="https://github.com/victorsouzaleal/lbot-whatsapp/watchers"><img title="Acompanhando" src="https://img.shields.io/github/watchers/victorsouzaleal/lbot-whatsapp?label=acompanhando&color=blue&style=flat-square"></a>
-<a href="#"><img title="Atualizacao" src="https://img.shields.io/badge/atualizado-SIM-blue.svg"/></a>
-</p>
-
-## Atualização 1.17.9
-**[CORREÇÃO]** Correção nos comandos do Youtube : !play e !yt<br>
-<br>
-<br>
-Obs: Estou voltando a atualizar o bot aos poucos então alguns comandos podem estar sem funcionar.
-<br>
-<br>
-Recomendo que instalem novamente do ZERO para que tudo funcione corretamente.
-<br>
 
 ## REQUERIMENTOS :
 - Um número de celular secundário para usar o bot.
@@ -39,18 +8,17 @@ Isso tudo é necessário para o bot funcionar corretamente.
 
 ## 1 - Faça download da ultima versão :
 Faça o download da última versão lançada no link abaixo (extraia o zip e entre na pasta para os passos seguintes):
-https://github.com/victorsouzaleal/lbot-whatsapp/releases/latest
-
+https://github.com/brunoobueno/WhatsApp-Bot-v2
 <br>
 
 ## 2 - Instale as dependências :
 Abra o prompt de comando (CMD/Terminal) na pasta do projeto que você extraiu e execute o comando abaixo :
 
 ```bash
-npm i
+npm install
 ```
 
-#### Obs: Se houver algum erro vá para o [Passo 7](https://github.com/victorsouzaleal/lbot-whatsapp#7---solu%C3%A7%C3%A3o-de-problemas-)
+#### Obs: Se houver algum erro vá para o [Passo 7]
 
 <br>
 
@@ -234,11 +202,8 @@ npm i
 ```
 Esse comando atualiza as dependências e pode resolver algum problema que você tenha sem precisar baixar ou esperar uma nova versão do bot.<br><br>
 
-**Obs**: Não conseguiu resolver? Entre em contato no [Passo 8](https://github.com/victorsouzaleal)
+**Obs**: Não conseguiu resolver? Entre em contato no [Passo 8](https://github.com/brunobueno)
 
-## 8 - Contato (NÃO É O BOT, É O NUMERO APENAS PARA TIRAR DÚVIDAS)
-* [`WhatsApp`](https://wa.me/5521995612287)
-
-## 9 - Agradecimentos
+## 8 - Agradecimentos
 * [`open-wa/wa-automate-nodejs`](https://github.com/open-wa/wa-automate-nodejs)
 * [`MhankBarBar/whatsapp-bot`](https://github.com/MhankBarBar/whatsapp-bot)
